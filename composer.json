@@ -1,9 +1,9 @@
 {
-    "name": "padosoft/@@@data",
+    "name": "padosoft/@@@package",
     "description": "@@@description",
     "keywords" : [@@@keywords
     ],
-    "homepage":"https://bitbucket.org/padosoft/@@@package/",
+    "homepage":"https://github.org/padosoft/@@@package/",
     "license" : "MIT",
     "authors" : [
     	{
