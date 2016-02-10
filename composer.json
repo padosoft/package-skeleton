@@ -1,9 +1,9 @@
 {
-    "name": "padosoft/@@@package",
-    "description": "@@@description",
+    "name": "@@@vendor/@@@package_name",
+    "description": "@@@package_description",
     "keywords" : [@@@keywords
     ],
-    "homepage":"https://github.org/padosoft/@@@package/",
+    "homepage":"https://github.org/@@@vendor/@@@package_name/",
     "license" : "MIT",
     "authors" : [
     	{
@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Padosoft\\@@@package\\": "src"
+            "Padosoft\\@@@package_name\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Padosoft\\@@@package\\Test\\": "tests"
+            "Padosoft\\@@@package_name\\Test\\": "tests"
         }
     },
     "extra": {
