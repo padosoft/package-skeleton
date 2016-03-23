@@ -1,3 +1,4 @@
+
 ## WORK IN PROGRESS
 # @@@package-name
 @@@descr
@@ -8,8 +9,9 @@
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Agnostic][ico-agnostic]]
 [![SensioLabsInsight][ico-sensiolab]][link-sensiolab]
+![Agnostic][ico-agnostic]]
+[![HHVM Status][ico-hhvm]][link-hhvm]
 
 Table of Contents
 =================
@@ -81,8 +83,9 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/@@@vendor/@@@package_name.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/@@@vendor/@@@package_name.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/@@@vendor/@@@package_name.svg?style=flat-square
-[ico-agnostic]: https://img.shields.io/badge/PHP-Framework%20agnostic-4F5B93.svg?style=flat-square
 [ico-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolab/small.png
+[ico-agnostic]: https://img.shields.io/badge/PHP-Framework%20agnostic-4F5B93.svg?style=flat-square
+[ico-hhvm]: http://hhvm.h4cc.de/badge/@@@vendor/@@@package_name.svg
 
 
 [link-packagist]: https://packagist.org/packages/@@@vendor/@@@package_name
@@ -91,3 +94,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-code-quality]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name
 [link-downloads]: https://packagist.org/packages/@@@vendor/@@@package_name
 [link-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs
+[link-hhvm]: http://hhvm.h4cc.de/package/@@@vendor/@@@package_name
