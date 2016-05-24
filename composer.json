@@ -1,20 +1,20 @@
 {
     "name": "@@@vendor/@@@package_name",
     "description": "@@@package_description",
-    "keywords" : [@@@keywords
-    ],
+    "keywords" : [@@@keywords],
+    "type" : "library",
     "homepage":"https://github.org/@@@vendor/@@@package_name/",
     "license" : "MIT",
     "authors" : [
     	{
-    		"name" : "padosoft",
-    		"email" : "helpdesk@padosoft.com",
-    		"homepage" : "https://www.padosoft.com",
+    		"name" : "@@@author",
+    		"email" : "@@@emailauthor",
+    		"homepage" : "@@@siteauthor",
     		"role" : "Developer"
     	}
     ],
 	"require": {
-
+        "php": ">=7.0.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*",
